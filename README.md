@@ -1,0 +1,2 @@
+# ConsoleSnake
+training program
